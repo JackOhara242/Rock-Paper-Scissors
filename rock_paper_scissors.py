@@ -43,7 +43,3 @@ print("You: " + str(user_score))
 print("Computer: " + str(comp_score))
 
 print("Goodbye")
-
-        
-        
-
