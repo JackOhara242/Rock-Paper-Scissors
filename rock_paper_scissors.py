@@ -5,7 +5,7 @@ comp_score= 0
 options = ["rock", "paper", "scissors"]
 comp_choice = "" 
 
-while user_score < 5:
+while true:
     user_input = input("Type Rock/Paper/Scissors or Q to quit: ").lower()
 
     if user_input == "q":
